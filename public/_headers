@@ -1,0 +1,61 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/products/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/blog/2016-12-17-Our-Vacation-on-Cape-Cod/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/blog/2017-01-04-Come-for-the-ocean/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/tags/vacation/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/tags/food/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/tags/surfing/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/tags/lobster/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/blog/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/contact/examples/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/contact/file-upload/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/contact/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/contact/thanks/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/tags/
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-d41676a102fe1140e2bc.js>; rel=preload; as=script
+  Link: </styles.f54e5d1d67bcddba8ee6.css>; rel=preload; as=script
