@@ -65,20 +65,10 @@ pricing:
   description: >-
     Come for the week or a month
   plans:
-    - description: A week on the Cape.
-      items:
-        - Just enough time to get your feet wet
-      plan: One week
-      price: '700'
-    - description: 'Stay for the month'
-      items:
-        - Housekeeping once per week
-      plan: Big
-      price: '3000'
-    - description: Want to stay longer? Contact us!
+    - description: Contact us!
       items:
         - The whole season could be yours
         - Housekeeping can be arranged
-      plan: Custom
-      price: ' Contact us'
+      plan: Summer
+      price: ' [Contact us](/contact)'
 ---

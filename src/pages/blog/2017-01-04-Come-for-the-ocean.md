@@ -4,12 +4,14 @@ title: Come for the ocean, stay for the pond
 date: 2017-01-04T15:04:10.000Z
 description: Wellfleet's kettle ponds are a treat!
 tags:
-  - surfing
-  - lobster
+  - pond
 ---
 
 ![Gull Pond](/img/pond-weeds.JPG)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Our host took pleasure in telling us the names of the ponds, most of which we could see from his windows, and making us repeat them after him, to see if we had got them right, Thoreau wrote in his book "Cape Cod" of a memorable visit to an oysterman's shack on the Herring River. 
+
+![Kettle Ponds](/img/NPS_cape-cod-kettle-ponds-map.gif)
+
+"They were Gull Pond, the largest and a very handsome one, clear and deep, and more than a mile in circumference, Newcomb's, Swett's, Slough, Horse-Leech, Round and Herring Ponds, all connected at high water, if I do not mistake."
